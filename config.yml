@@ -1,0 +1,13 @@
+mobile:
+  ios:
+    application_path: '/Users/samaythakkar/Library/Developer/Xcode/DerivedData/AppiumTest-cukxwffpssnbzpembufrsplwpudt/Build/Products/Debug-iphonesimulator/AppiumTest.app'
+dev:
+  default_user:
+    username: 'samaythakkar1000'
+    password: 'password'
+stage:
+  default_user:
+    username: 'samaythakkar'
+    password: 'password'
+env: 'dev'
+operating_system: 'ios'

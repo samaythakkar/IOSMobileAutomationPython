@@ -1,0 +1,6 @@
+pyyaml
+pytest
+pytest-bdd
+pytest-xdist
+appium-python-client
+allure-pytest
